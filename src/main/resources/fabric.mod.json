@@ -8,6 +8,9 @@
   "license": "All-Rights-Reserved",
   "icon": "assets/kweetnsky/icon.png",
   "environment": "client",
+    "mixins": [
+    { "config": "kweetnsky.mixins.json", "environment": "client" }
+  ],
   "entrypoints": {
     "client": ["dev.kweetn.sky.KweetnSkyClient"],
     "modmenu": ["dev.kweetn.sky.ModMenuEntry"]
