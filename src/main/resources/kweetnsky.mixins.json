@@ -1,0 +1,8 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dev.kweetn.sky.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["PackSelectionModelMixin"],
+  "injectors": { "defaultRequire": 0 }
+}
