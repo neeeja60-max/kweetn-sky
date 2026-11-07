@@ -1,0 +1,7 @@
+KWEETN SKY - mod voor Minecraft 1.21.11 (Fabric)
+
+Dit is de PROJECTMAP. Je uploadt hem naar GitHub, GitHub bouwt er het .jar-bestand van.
+Zie het chatbericht van Claude voor de stappen.
+
+In het spel nodig: Fabric API + Mod Menu (Mod Menu is optioneel) + een mod die OptiFine-skies toont
+(bijv. Nuit + Nuit Interop). De mod zelf wisselt alleen welk sky-pack aan staat.

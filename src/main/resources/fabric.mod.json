@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "kweetnsky",
+  "version": "${version}",
+  "name": "Kweetn Sky",
+  "description": "Pick a sky from a clean menu, or drag in your own sky resource pack. Press K to open.",
+  "authors": ["Kweetn"],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/kweetnsky/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.kweetn.sky.KweetnSkyClient"],
+    "modmenu": ["dev.kweetn.sky.ModMenuEntry"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
